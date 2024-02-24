@@ -1,0 +1,30 @@
+There are 4 type of mode to login to any network:
+
+1. user Execution Mode/ User Mode
+	Access method : login
+
+2. Previllige Mode
+	Excess Method : enable or en
+
+3. Global configuration Mode: 
+	Command : configure terminal / conf t 
+
+4. interface mode
+	Command : interface <interface number> 
+	
+Symbol to represent mode:
+
+	User execution mode:
+	switch>
+
+	Previllege mode:
+	switch#
+
+	Global Configuration mode:
+	switch(config)
+
+	Interface mode:
+	switch(config-if)#
+	
+	Exit
+	ex
