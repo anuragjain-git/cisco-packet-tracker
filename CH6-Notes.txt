@@ -1,0 +1,13 @@
+ch 6
+
+ram vs rom
+POST(perform on self test)
+bootstrap program
+ROMMON
+TFTP server
+
+
+flash memory - contains startup configuration file
+ROM - contains ios image file
+vram - contains running configuration file 
+nvram - contains bootstrap program and ROMMON
