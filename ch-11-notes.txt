@@ -1,0 +1,21 @@
+1. static and dynamic routing
+2. 4 types of dynamic routing
+
+Distance Vector Routing :
+- select path with less hop count (number of router in that path) 
+- protocols RIP (and IGRP ?)
+
+````````````````````````
+
+split horizon 
+route poisoning
+
+dynamic routing 
+        router rip
+        version 2
+        no route-summary
+        network network-address
+        ex
+        do sh ip route (a C indicates a directly connected
+route (network) and an S indicates a static route. The L is new—it’s a host
+route)
